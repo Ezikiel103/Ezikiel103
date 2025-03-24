@@ -1,4 +1,8 @@
-# 🌟 **<span id="dynamic-name">Ezequiel Vásquez</span>** ✨  
+<h1 align="center"><b>Hi , I'm Ezequiel Vasquez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=If+you+can+imagine+it,+you+can+program+it..&hearts;++;FullStack+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
 ### 💻 **FullStack Developer** | 🎓 **Computer Science Student** | 🚀 **Tech Enthusiast**
 
 <img align="right" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300px">
