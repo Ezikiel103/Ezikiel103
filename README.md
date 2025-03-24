@@ -31,7 +31,7 @@
 
 - **Tecnologies & Languages**:
     
-    ![this](https://skillicons.dev/icons?i=js,html,css,react,tailwind,nodejs,vite,vercel,threejs,mongodb)
+    ![this](https://skillicons.dev/icons?i=js,html,css,react,tailwind,nodejs,vite,vercel,threejs,mongodb,vue,flutter)
 
 <br>   
     
