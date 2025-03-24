@@ -5,7 +5,7 @@
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300px">
 
 🔮 *"If you can imagine it, you can program it."*  
-🌱 Currently mastering **Three.js & Advanced React Patterns**  
+🌱 Currently mastering **Vue.js & Flutter**  
 📫 How to reach me: **ezequielvv103@gmail.com**  
 
 ---
