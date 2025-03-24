@@ -2,48 +2,54 @@
 
 ### 💻 **FullStack Developer** | 🎓 **Computer Science Student** | 🚀 **Tech Enthusiast**
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300px">
+<img align="right" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300px">
 
-🔮 *"If you can imagine it, you can program it."*  
-🌱 Currently mastering **Vue.js & Flutter**  
-📫 How to reach me: **ezequielvv103@gmail.com**  
-
----
-
-### 🛠 **Tech Stack**
-
-#### 🌐 **Frontend**
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white&style=flat)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css&logoColor=white&style=flat)
-![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white&style=flat)
-
-#### ⚙️ **Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-
-#### 🛠 **Tools**
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat)
+🔮 *"Code is poetry, and I'm the poet."*  
+🌱 Currently mastering **Vue 3, Flutter & Python**  
+📫 Reach me: **ezequielvv103@gmail.com**  
 
 ---
 
-### 📊 **GitHub Stats**
+### 🚀 **Tech Stack**
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ezikiel103&show_icons=true&theme=radical&hide_border=true)
+#### **Frontend & Mobile**
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=react,vue,tailwind,flutter,threejs" alt="Frontend" height="50"/>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ezikiel103&layout=compact&theme=radical&hide_border=true)
+#### **Backend & Databases**
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,mongodb,firebase" alt="Backend" height="50"/>
+</div>
+
+#### **Tools & Platforms**
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,figma" alt="Tools" height="50"/>
+</div>
 
 ---
 
-### 🌈 **Let's Connect!**
+### 📊 **GitHub Analytics**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF7139?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolioev.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezikiel103/)
-[![Gmail](https://img.shields.io/badge/📧_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezequielvv103@gmail.com)
+<div style="display: flex; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ezikiel103&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezikiel103&layout=compact&theme=nightowl&hide_border=true" width="45%"/>
+</div>
 
 ---
 
-⭐ *"Turning coffee into code since 2020."*  
-🎯 **Fun Fact:** I can solve a Rubik's cube in under 2 minutes!
+### 🌍 **Let's Connect**
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+[![Portfolio](https://img.shields.io/badge/✨_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolioev.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezikiel103/)
+[![Gmail](https://img.shields.io/badge/📬_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezequielvv103@gmail.com)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ezikiel103)
+
+</div>
+
+---
+
+🎨 **UI/UX Lover** | ☕ **Coffee Overdose** | 🎮 **Gamer by night**  
+⚡ **Fun Fact:** I automate my daily tasks with Python scripts!
