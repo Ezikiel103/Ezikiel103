@@ -5,7 +5,7 @@
 <img align="right" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300px">
 
 🔮 *"Code is poetry, and I'm the poet."*  
-🌱 Currently mastering **Vue 3, Flutter & Python**  
+🌱 Currently mastering **Vue 3 & Flutter**  
 📫 Reach me: **ezequielvv103@gmail.com**  
 
 ---
@@ -14,12 +14,12 @@
 
 #### **Frontend & Mobile**
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=react,vue,tailwind,flutter,threejs" alt="Frontend" height="50"/>
+  <img src="https://skillicons.dev/icons?i=react,vue,tailwind,flutter" alt="Frontend" height="50"/>
 </div>
 
 #### **Backend & Databases**
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,mongodb,firebase" alt="Backend" height="50"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,mongodb" alt="Backend" height="50"/>
 </div>
 
 #### **Tools & Platforms**
