@@ -1,20 +1,19 @@
-# 🌟 **Ezequiel Vásquez** ✨
-
+# 🌟 **<span id="dynamic-name">Ezequiel Vásquez</span>** ✨  
 ### 💻 **FullStack Developer** | 🎓 **Computer Science Student** | 🚀 **Tech Enthusiast**
 
 <img align="right" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300px">
 
-🔮 *"Code is poetry, and I'm the poet."*  
+🔮 *"If you can imagine it, you can program it."*  
 🌱 Currently mastering **Vue 3 & Flutter**  
 📫 Reach me: **ezequielvv103@gmail.com**  
 
 ---
 
-### 🚀 **Tech Stack**
+### 🛠️ **Tech Stack**
 
 #### **Frontend & Mobile**
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=react,vue,tailwind,flutter" alt="Frontend" height="50"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,vue,tailwind,flutter,threejs" alt="Frontend" height="50"/>
 </div>
 
 #### **Backend & Databases**
@@ -24,14 +23,14 @@
 
 #### **Tools & Platforms**
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,figma" alt="Tools" height="50"/>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,figma,vite" alt="Tools" height="50"/>
 </div>
 
 ---
 
 ### 📊 **GitHub Analytics**
 
-<div style="display: flex; gap: 20px;">
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=Ezikiel103&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezikiel103&layout=compact&theme=nightowl&hide_border=true" width="45%"/>
 </div>
@@ -53,3 +52,19 @@
 
 🎨 **UI/UX Lover** | ☕ **Coffee Overdose** | 🎮 **Gamer by night**  
 ⚡ **Fun Fact:** I automate my daily tasks with Python scripts!
+
+<script>
+  // Efecto de nombre dinámico
+  const nameElement = document.getElementById('dynamic-name');
+  const names = ['Ezequiel Vásquez', 'FullStack Dev', 'Tech Enthusiast', 'Code Poet'];
+  let counter = 0;
+  
+  setInterval(() => {
+    nameElement.style.opacity = 0;
+    setTimeout(() => {
+      nameElement.textContent = names[counter % names.length];
+      nameElement.style.opacity = 1;
+      counter++;
+    }, 500);
+  }, 2000);
+</script>
