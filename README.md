@@ -3,11 +3,9 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=If+you+can+imagine+it,+you+can+program+it..&hearts;++;FullStack+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
-### 💻 **FullStack Developer** | 🎓 **Computer Science Student** | 🚀 **Tech Enthusiast**
 
 <img align="right" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300px">
 
-🔮 *"If you can imagine it, you can program it."*  
 🌱 Currently mastering **Vue 3 & Flutter**  
 📫 Reach me: **ezequielvv103@gmail.com**  
 
@@ -56,19 +54,3 @@
 
 🎨 **UI/UX Lover** | ☕ **Coffee Overdose** | 🎮 **Gamer by night**  
 ⚡ **Fun Fact:** I automate my daily tasks with Python scripts!
-
-<script>
-  // Efecto de nombre dinámico
-  const nameElement = document.getElementById('dynamic-name');
-  const names = ['Ezequiel Vásquez', 'FullStack Dev', 'Tech Enthusiast', 'Code Poet'];
-  let counter = 0;
-  
-  setInterval(() => {
-    nameElement.style.opacity = 0;
-    setTimeout(() => {
-      nameElement.textContent = names[counter % names.length];
-      nameElement.style.opacity = 1;
-      counter++;
-    }, 500);
-  }, 2000);
-</script>
